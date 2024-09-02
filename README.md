@@ -10,8 +10,8 @@ This project provides a complete pipeline for face detection and recognition:
 3. **Face Detection**: Use the trained model to detect faces in new images or videos.
 
 ## Dependencies
--tensorflow
--opencv-python
--dlib
--numpy
--sklearn
+- tensorflow
+- opencv-python
+- dlib
+- numpy
+- sklearn
